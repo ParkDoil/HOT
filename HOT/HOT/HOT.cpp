@@ -13,6 +13,10 @@ int main()
     std::cout << "Hello Collaboration^^\n";
     std::cout << "jiyoon ibnida^^" << endl;
 
+    
+    cout << "   *   " << endl;
+    cout << "  ***  " << endl;
+    
     cout << "  ***  " << endl;
     cout << "   *   " << endl;
 }
