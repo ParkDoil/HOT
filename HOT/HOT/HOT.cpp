@@ -3,10 +3,13 @@
 
 #include <iostream>
 
+using namespace std;
+
 int main()
 {
     std::cout << "Hello Collaboration^^\n";
     std::cout << "jiyoon ibnida^^";
+    cout << "편안~~" << endl;
 }
 
 // 프로그램 실행: <Ctrl+F5> 또는 [디버그] > [디버깅하지 않고 시작] 메뉴
