@@ -2,20 +2,24 @@
 //
 
 #include <iostream>
-#include <conio.h>
 using namespace std;
+
 int main()
 {
     cout << "Hello meraverse\n";
 
 
-    cout << "Hello Collaboration^^\n";
-    cout << "jiyoon ibnida^^";
-    cout << endl;
+    std::cout << "Hello Collaboration^^\n";
+    std::cout << "jiyoon ibnida^^" << endl;
+
     
+    cout << "   *   " << endl;
+    cout << "  ***  " << endl;
     cout << " ***** " << endl;
     cout << "*******" << endl;
     cout << " ***** " << endl;
+    cout << "  ***  " << endl;
+    cout << "   *   " << endl;
 }
 
 // 프로그램 실행: <Ctrl+F5> 또는 [디버그] > [디버깅하지 않고 시작] 메뉴
