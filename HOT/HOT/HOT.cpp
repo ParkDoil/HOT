@@ -2,9 +2,11 @@
 //
 
 #include <iostream>
-
+using namespace std;
 int main()
 {
+    cout << "Hello meraverse\n";
+
 
     std::cout << "Hello Collaboration^^\n";
     std::cout << "jiyoon ibnida^^";
