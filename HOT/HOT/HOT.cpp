@@ -5,8 +5,10 @@
 
 int main()
 {
+
     std::cout << "Hello Collaboration^^\n";
     std::cout << "jiyoon ibnida^^";
+
 }
 
 // 프로그램 실행: <Ctrl+F5> 또는 [디버그] > [디버깅하지 않고 시작] 메뉴
